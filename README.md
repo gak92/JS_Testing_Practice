@@ -1,56 +1,38 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Javascript Testing using JEST
 
-> Description the project.
-
+> Javascript unit testing using JEST.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- Visual Studio
+- Git/GitHub
 
-## Live Demo (if available)
+### Pre-requisite
 
-[Live Demo Link](https://livedemo.com)
+- Visual Studio
 
+### Setup and install dependences
 
-## Getting Started
+```
+  npm install
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+```
 
+### To Test
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```
+  npm test
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Ghazanfar Ali**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@gak92](https://github.com/gak92)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghazanfar-ali-9a4998a/)
 
 ## 🤝 Contributing
 
